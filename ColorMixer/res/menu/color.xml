@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/MENU_ITEM_FAVORITES"
+          android:title="@string/favorites"
+          android:showAsAction="never">
+    </item>
+    <item android:id="@+id/MENU_ITEM_SAVE" android:title="@string/save"></item>
+    <item android:id="@+id/MENU_ITEM_CAMERA" android:title="@string/camera"></item>
+
+</menu>
